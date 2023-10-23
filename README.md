@@ -1,9 +1,10 @@
 # Trilha JS Developer - Pokedex
 
-- *Desafio Pokedex bootcamp Santander FullStack:
-- *criação de uma Pokédex, utilizando JavaScript,e todos os fundamentos de desenvolvimento - *Web aprendidos em aula.
+**Desafio Pokedex bootcamp Santander FullStack:**
 
-![Pokedex](https://github.com/vivianeoliveirah/desafio-pokedex.git/raw/main/poke.png)
+Criação de uma Pokédex, utilizando JavaScript, e todos os fundamentos de desenvolvimento web aprendidos em aula.
+
+![Pokedex](https://raw.githubusercontent.com/vivianeoliveirah/desafio-pokedex/main/poke.png)
 
 **Linguagens utilizadas:**
 
